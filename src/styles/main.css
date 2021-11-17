@@ -1,0 +1,27 @@
+@import url("./Layout/container-header.css");
+@import url("./Layout/container-menu.css");
+@import url("./Layout/container-content.css");
+@import url("./Component/field-input.css");
+@import url("./Component/table.css");
+@import url("./Component/paging.css");
+@import url("./Common/common.css");
+@import url("./Component/text-box.css");
+@import url("./Component/dialog.css");
+@import url("./Component/combobox.css");
+@import url("./Component/validate.css");
+@font-face {
+    font-family: GoogleSans-Regular;
+    src: url("../assets/font/GoogleSans-Regular.otf");
+}
+
+@font-face {
+    font-family: GoogleSans-Bold;
+    src: url("../assets/font/GoogleSans-Bold.otf");
+}
+
+body {
+    font-family: GoogleSans-Regular;
+    font-size: 13px;
+    margin: 0;
+    position: relative;
+}
